@@ -5,6 +5,9 @@ current page in the opened book.
 
 
 ## Usage
+Only compatible with python 3.7.x , due to Pillow dependency
+
+Get mouse x,y co-ordinates by using chrome extension.
 
 ```bash
 pip install -r requirements.txt
